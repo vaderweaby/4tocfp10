@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>nike</title>
+    <link rel="icon" href="img/icono.png" type="">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#Inicio">Inicio</a>
+            <a href="#Portafolio">Portafolio</a>
+            <a href="https://www.nike.com/ar/jordan">Productos</a>
+            <a href="#">Contacto ®</a>
+        </nav>
+        <section class="textos-header">
+            <h1>Nike</h1>
+            <h2>Simplemente hazlo</h2>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M-2.83,80.22 C184.53,112.78 354.96,-21.42 501.12,5.22 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: #fff;"></path>
+            </svg></div>
+    </header>
+    <main>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">Nuestro producto</h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="img\img.jpg" alt="" class="imagen-about-us">
+                <div class="contenido-textos">
+                    <h3><span>1</span>Nuestra empresa</h3>
+                    <p>Nikw,​ inc, es una empresa multinacional estadounidense dedicada al diseño, desarrollo, fabricación y comercialización de equipamiento deportivo: balones,
+                     calzado, ropa, equipo, accesorios y otros artículos deportivos.</p>
+                    <h3><span>2</span>Historia Nike</h3>
+                    <p>Se sabe que a finales de los 50s, Philip Knight, profesor y ex-atleta de la Universidad de Oregón, buscaba hacerse un nombre en el negocio de la distribución de calzado deportivo, por lo que viajó a Jap
+                      ón a proponerle a la compañía Onitsuka Tiger distribuir sus famosas zapatillas para atletismo en Estados Unidos a través de una supuesta sociedad mercantil llamada Blue Ribbon Sports.</p>
+                </div>
+            </div>
+        </section>
+        <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">Portafolio</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="img/imgg1.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg2.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg4.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg5.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg6.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg7.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="img/imgg8.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/bottom2.png" alt="">
+                            <p>Nuestro trabajo</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="titulo">Que dicen nuestros clientes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="img/perfil1.png" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Elena</h4>
+                        <p>He comprado varias veces y todo genial, producto de calidad, devoluciones gratuitas y plazos de entrega</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="img/perfil1.png" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Sam</h4>
+                        <p>Calidad asegurada.a precio competitivo.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>telefono</h4>
+                <p>011 3678-7793</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>moskito@hotmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Locacion</h4>
+                <p>Vedia 3626 (Local 0101-0102-0103, 1430 Buenos Aires</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">nahuel martinez</h2>
+    </footer>
+</body>
+
+</html>
