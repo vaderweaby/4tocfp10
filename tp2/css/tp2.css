@@ -1,13 +1,42 @@
 body {
   background-color: lightblue;
 }
-
-h1 {
+img {
+  width: 100px;
+}
+/* h1 {
   color: white;
   text-align: center;
-}
+} */
 
-p {
+/* p {
   font-family: verdana;
   font-size: 20px;
+} */
+
+header{
+  background-color: #87AAAA;
+}
+nav{
+  background-color: #C8E3D4;
+  height: 100px;
+}
+.seccion1{
+  background-color: #F6EABE;
+  height: 300px;
+}
+.seccion2{
+  background-color: red;
+  height: 300px;
+}
+footer{
+  background-color:lavender;
+  height: 200px;
+
+}
+article{
+  background-color: green;
+  height: 100px;
+  width: 200px;
+  display: inline-block;
 }
